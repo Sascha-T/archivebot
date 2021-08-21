@@ -52,3 +52,7 @@ interface ArchiveMessage {
 }
 
 ````
+
+### How to use?
+Simply run ``a>archive`` and mention a channel ``#general`` after it. \
+Alternatively send ``archive`` to the bot in DMs with a channel mentioned after it. (``<#1234567890>``)
