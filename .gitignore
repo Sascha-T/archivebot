@@ -1,0 +1,7 @@
+archive*
+.idea
+*.iml
+package-lock.json
+output-*.zip
+node_modules
+config.json

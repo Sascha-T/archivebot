@@ -1,0 +1,24 @@
+{
+  "name": "archivebot98",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/adm-zip": "^0.4.34",
+    "@types/mime-types": "^2.1.0",
+    "@types/node": "^15.12.5",
+    "@types/node-fetch": "^2.5.10",
+    "adm-zip": "^0.5.5",
+    "discord.js": "^12.5.3",
+    "mime-types": "^2.1.31",
+    "node-fetch": "^2.6.1",
+    "url-regex": "^5.0.0"
+  }
+}
